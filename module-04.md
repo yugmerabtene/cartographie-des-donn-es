@@ -153,6 +153,4 @@
 * Respect des bonnes pratiques (20 %)
 * Présentation et justification orale (20 %)
 
----
 
-Veux-tu que je passe maintenant au **Module 5 – Projet final : Cartographie complète d’un SI**, en le structurant comme un mini-projet avec livrables, grille d’évaluation et soutenance type jury RNCP ?
