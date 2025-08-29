@@ -88,7 +88,3 @@
   * Maintenir la cartographie vivante (MCO)
   * Lien avec CI/CD et DataOps
 * Étude de cas : projet “Smart City” (données capteurs IoT, bases SIG, API publiques)
-
-
-
-Veux-tu que je le **mette directement au format RNCP** (blocs de compétences, activités-types, critères d’évaluation) pour qu’il soit prêt à être intégré dans ton référentiel de formation ?
