@@ -165,4 +165,3 @@
 
 ---
 
-Veux-tu que je crée un **exemple concret de livrable** (fichier Excel d’inventaire + dictionnaire de données + script Python pour explorer une base) afin que tes étudiants puissent s’en servir comme **modèle** ?
