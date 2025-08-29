@@ -118,6 +118,3 @@ Chaque groupe devra construire une **cartographie des données** adaptée à ce 
 * DAMA-DMBOK – Data Management Book of Knowledge
 * Documentation Collibra / Talend pour exemples de Data Catalog
 
----
-
-👉 Veux-tu que je prépare un **exemple de projet final complet** (inventaire en tableau + schéma DFD + analyse conformité) que tes étudiants pourraient utiliser comme **modèle corrigé** pour comprendre les attentes ?
