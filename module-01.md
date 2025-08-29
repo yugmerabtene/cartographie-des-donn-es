@@ -174,6 +174,3 @@
 * Production d’un premier schéma de cartographie simplifié
 * Quiz court en fin de module (5 à 10 questions)
 
----
-
-Veux-tu que je développe le **contenu du quiz de fin de module** (questions + réponses), pour que tu puisses l’utiliser directement avec tes étudiants ?
